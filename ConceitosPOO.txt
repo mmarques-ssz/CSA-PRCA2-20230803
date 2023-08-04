@@ -1,0 +1,10 @@
+Conceitos POO (Programação Orientada à Objetos)
+
+CLASSE = Estrutura de armazenamento de dados (variáveis/ATRIBUTOS) e de rotinas (funções/MÉTODOS) que manipulam tais dados.
+
+OBJETO = É a instância de uma classe
+
+ATRIBUTO = É o dado de uma classe (o que descreve seus membros)
+
+MÉTODO = É cada funcionalidade de uma classe (executa as ações)
+
